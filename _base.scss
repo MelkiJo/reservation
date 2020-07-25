@@ -1,0 +1,33 @@
+@font-face {
+  src: url(../font/Merrieweather/Merriweather-Regular.ttf);
+  font-family: "merriweather";
+}
+
+@font-face {
+  src: url(../font/Ubuntu/Ubuntu-Regular.ttf);
+  font-family: "ubuntu";
+}
+
+@font-face {
+  src: url(../font/Roboto/Roboto-Regular.ttf);
+  font-family: "roboto";
+}
+p {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
+.strong {
+  font-weight: 600;
+}
+.container-fluid {
+  padding: 0 5%;
+}
+
+.nav-link {
+  padding: 0 20px 2px;
+}
+
+.strike {
+  text-decoration: line-through;
+  font-size: 0.75rem;
+}
